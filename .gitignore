@@ -1,0 +1,50 @@
+# =========================
+# Unity Project Ignored Files
+# =========================
+
+# Unity auto-generated folders (should not be committed)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/Logs/
+[Bb]uilds/CrashReports/
+[Bb]uilds/*.bak
+
+# User-specific files (Unity and general OS)
+.DS_Store
+Thumbs.db
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Unity generated files (can be rebuilt)
+*.csproj
+*.unityproj
+*.asset
+*.pidb
+*.sln
+*.suo
+*.tmp
+*.psd.meta
+*.mat.meta
+*.controller.meta
+
+# Logs
+Logs/
+*.log
+
+# Cache and temporary files
+/[Cc]ache/
+# Auto-generated Lightmaps and GI Cache
+/[Ll]ightmapSnapshot/
+# Unity generated asset previews (can be rebuilt)
+/[Aa]sset[Bb]undle[Bb]rowser[Cc]ache/
